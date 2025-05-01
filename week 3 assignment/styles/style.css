@@ -1,0 +1,22 @@
+#myEmail {
+    color: rgb(7, 110, 93)
+    text-decoration: none;
+    font-weight: bold;
+}
+.home-footer {
+    color: rgba(212, 151, 17, 0.911)51, 0);
+    font-weight: bold;
+}
+body {
+    background-image: url("Images/status.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: centre;
+    
+}
+#footer {
+    text-align: center;
+    text decoration: underline;
+    text-transform: capitalize;
+    font-family: arial, sans serif;
+}
